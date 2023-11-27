@@ -41,3 +41,9 @@ body{
     font-family: var(--main-font);
     color:var(--color-almost-black) ;
 }
+.referencia {
+    padding-left: 1%;
+    background-color: #9353FF;
+    font-family: var(--main-font);
+    color:var(--color-almost-black) ;
+}
